@@ -1,0 +1,9 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+circle(224.38427,325.69282,20.689644) # color=white text={background}
+circle(190.98695,357.65781,20.689644) # color=white text={Barnard}
+circle(468.15158,383.00331,20.689644)
+circle(68.79504,164.03313,20.689644) # color=white text={ref}
+circle(456.96218,662.11031,20.689644)
+circle(282.36648,856.19971,20.689644)

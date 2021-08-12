@@ -1,0 +1,7 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(17:58:01.629,+4:40:54.42,60") # color=white text={Barnard}
+circle(17:57:48.500,+4:41:36.10,60")
+point(17:57:48.500,+4:41:36.10) # point=cross 60
+box(17:58:04.607,+4:37:02.58,1277.86",1273.68",180)
